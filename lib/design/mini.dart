@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:feedback/design/carousel_details.dart';
 import 'package:feedback/design/wave.dart';
 import 'package:flutter/material.dart';
